@@ -8,7 +8,7 @@
 
 ## ✨ About Me
 
-🎓 3rd Year Computer Engineering Student  
+🎓 4th Year Computer Engineering Student  
 🏫 Bajaj Institute of Technology (DBATU)  
 ☁️ Google Cloud Silver League (4000+ points)  
 🏆 Google Solution Challenge – State Level Selection  
