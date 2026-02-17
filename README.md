@@ -1,67 +1,56 @@
-<h1 align="center">Shruti Jauhari</h1>
-<h3 align="center">Software Developer | Java & Spring Boot | Real-Time Systems | AWS Certified</h3>
+<h1 align="center">👩‍💻 Shruti Jauhari</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&size=22&center=true&vCenter=true&width=650&lines=Java+Backend+Engineer;Spring+Boot+Developer;Real-Time+System+Architect;AWS+Cloud+Certified;Competitive+Programmer" />
+</p>
 
 ---
 
-## Profile Summary
+## ⚡ About
 
-Final-year Computer Engineering student with strong expertise in Java, Spring Boot, and real-time distributed systems. Experienced in building scalable backend architectures, secure encryption systems, and cloud-based deployments.
+🎓 B.Tech Computer Engineering (2022–2026) | CGPA 7.8  
+🏆 Avishkar 2024 Winner  
+🥇 SilverZone Olympiad Gold Medalist (State Rank 4)  
+☁️ AWS Certified  
 
----
-
-## Technical Skills
-
-**Languages:** Java (Core, OOP, Multithreading, Collections, Servlets, JSP), C++, JavaScript  
-**Backend:** Spring Boot, Spring MVC, Spring Security, REST APIs, JDBC  
-**Frontend:** React.js, Vite, HTML, CSS, Bootstrap  
-**Databases:** MySQL, Firebase Firestore, SQL (Joins, Aggregations, Subqueries)  
-**Cloud:** AWS (EC2, S3, IAM, RDS, VPC)  
-**Tools:** Git, GitHub, Eclipse, VS Code  
+I design scalable backend systems with strong security models and optimized database logic.
 
 ---
 
-## Key Projects
+## 🔥 Core Expertise
 
-### GapShap – Secure Messaging Platform
-- Built real-time communication engine using Socket.IO
-- Implemented AES-256 encryption with RSA-2048 key exchange
-- Designed optimized SQL queries and relational-style schemas
-- Developed encrypted cloud backup system
-
-### Chitthi Clash – Multiplayer Game
-- 500+ concurrent players supported
-- Firebase real-time sync with optimized listeners
-- Matchmaking & leaderboard logic with SQL joins
-- Cross-platform responsive gameplay
+- Spring Boot REST APIs
+- Real-Time Systems (Socket.IO, Firebase)
+- Encryption (AES-256 + RSA-2048)
+- Multithreading & Collections
+- SQL Query Optimization
+- Cloud Deployment (AWS EC2, RDS, S3)
 
 ---
 
-## Certifications
+## 🛠 Tech Stack
 
-- AWS Certified Cloud Practitioner  
-- AWS Academy Graduate – Cloud Foundations & Cloud Developing  
-- Mastering Generative AI & ChatGPT  
-
----
-
-## Achievements
-
-- Winner – Avishkar 2024 (Software Development Track)  
-- Gold Medalist – International SilverZone Olympiad (State Rank 4)  
-- State-Level Finalist – Google Solution Challenge  
-- Core Team Member – GDSC  
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,firebase,mysql,aws,cpp,git,github" />
+</p>
 
 ---
 
-## GitHub Stats
+## 📈 GitHub Analytics
 
-![Stats](https://github-readme-stats.vercel.app/api?username=shruti27jauhari&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=shruti27jauhari&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shruti27jauhari&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shruti27jauhari&layout=compact&theme=tokyonight)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=shruti27jauhari&theme=tokyonight)
 
 ---
 
-## Contact
+## 🌍 Connect
 
 📧 shrutijauhari27@gmail.com  
 💼 https://www.linkedin.com/in/shruti-jauhari-b9a426259/
+
+---
+
+🖤 Secure. Scalable. Real-Time.
